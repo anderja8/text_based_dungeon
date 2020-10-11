@@ -5,10 +5,10 @@ the rooms until you find the end game room. Your path taken will then be ouput t
 
 # Installation
 `git clone`  
-`make game` to compile the two programs
-`./anderja8.buildrooms` to generate a directory of the game rooms
-`ls` to get the name of the new directory
-`./anderja8.adventure <directory name>` to start up the game.
+`make game` to compile the two programs  
+`./anderja8.buildrooms` to generate a directory of the game rooms  
+`ls` to get the name of the new directory  
+`./anderja8.adventure <directory name>` to start up the game.  
 
 # Game Rules
 Simply type the name of the room you wish to enter next into the prompt. If you would like to view the time, you can enter `time`
